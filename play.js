@@ -1,0 +1,1 @@
+thing = document.getElementById("")
